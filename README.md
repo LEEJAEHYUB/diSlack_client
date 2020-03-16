@@ -1,5 +1,5 @@
 # diSlack(slack cloning with Crong)
-
+[![HitCount](http://hits.dwyl.com/LEEJAEHYUB/diSlack_client.svg)](http://hits.dwyl.com/LEEJAEHYUB/diSlack_client)
 ---
 
 diSlack is a project that cloned _slack_ of team Crong of Codestates. You can create your own workspaces for your projects and chat with your colleagues in the workspaces as you already know about 'slack'.
